@@ -1,3 +1,4 @@
 public class Motos {
-    private String Marca;
+    private String marca;
+    private String modelo;
 }
