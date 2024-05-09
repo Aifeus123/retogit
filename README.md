@@ -1,5 +1,8 @@
 ## Contenido RegoGit
 
+![Imagen del proyecto](imagen.jpg)
+
+
 1.-Crea un repositorio nuevo que se llame retogit.<br>
 2.-Realiza la subida de la carpeta src de un proyecto en java.<br>
 3.-Crea una nueva rama que se llame desarrolloPersona.<br>
